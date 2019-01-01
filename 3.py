@@ -1,3 +1,4 @@
+#n64, p298, openstax vol3
 #13 in cds
 w = [ 2.9, 2.4, 4.6, 4.1, 5]
 elementna = ['ca', 'na', 'si', 'mn', 'c']
