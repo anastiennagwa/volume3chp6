@@ -1,3 +1,4 @@
+#n57, page 298, opensatx vol3
 #lambdamax*T=2.898*10^-3
 t = [700, 650, 710, 750, 670]
 lamdam = [2.898*10**-3/a for a in t]#frequency
